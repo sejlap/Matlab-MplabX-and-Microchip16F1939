@@ -1,0 +1,4 @@
+Relacija 1-n (Jedna biblioteka vise knjiga se moze nalaziti u biblioteci)
+
+Veza n-m (vise na vise) Vise autora moze imati vise knjiga
+
